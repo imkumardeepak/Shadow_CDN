@@ -46,7 +46,7 @@ export function NavMain({
         <SidebarMenuItem>
           <SidebarMenuButton tooltip={"Dashboard"}>
             <Home />
-            <a href="/">
+            <a href="/dashboard">
               <span>Dashboard</span>
             </a>
           </SidebarMenuButton>

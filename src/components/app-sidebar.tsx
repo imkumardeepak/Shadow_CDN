@@ -60,8 +60,8 @@ const data = {
           url: "/form-ui",
         },
         {
-          title: "Starred",
-          url: "#",
+          title: "Login",
+          url: "/",
         },
         {
           title: "Settings",
